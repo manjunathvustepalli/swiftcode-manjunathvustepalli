@@ -27,3 +27,10 @@ html body {
     font-size: 14px;
     font-family: 'Courier New', monospace;
 }
+
+.message-time {
+    margin-top: 4px;
+    float: right;
+    color: #666666;
+    font-size: 10px;
+}
